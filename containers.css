@@ -1,0 +1,38 @@
+* {
+  text-align: center;
+  color: white;
+}
+
+.container {
+  background: green;
+  height: 90px;
+}
+
+.container-fluid {
+  background: indianred;
+  height: 90px;
+}
+
+#one,
+#two,
+#three,
+#four,
+#five {
+  background: tomato;
+}
+
+#rb {
+  background: none;
+  color: black;
+}
+
+/*
+
+x-Small   (xs)   <576 px
+Small     (sm)   ≥576 px
+Medium    (md)   ≥768 px
+Large     (lg)   ≥992 px
+X-large   (xl)   ≥1200 px
+XX-large  (xxl)   ≥1400 px
+
+*/
